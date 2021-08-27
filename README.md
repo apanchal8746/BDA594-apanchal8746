@@ -2,5 +2,5 @@
 BDA 594 GIT Web Exercise Repo - Ashish Panchal
 
 1. **First Name:** Ashish
-1. **Second Name:** Panchal
+1. **Last Name:** Panchal
 
