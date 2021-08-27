@@ -3,7 +3,7 @@ BDA 594 GIT Web Exercise Repo - Ashish Panchal
 
 1. **First Name:** Ashish
 2. **Last Name:** Panchal
-3. [BDA594 Canvas Class URL](https://sdsu.instructure.com/courses/79732)
+3. **Course URL:** https://big.sdsu.edu/
 4. **My Own Definition of Big Data:** 
 > Big Data is large amount of unstructured data which can't be stored on our computing machine and require additional tools and techniques to store data and analyze it.
 
